@@ -1,4 +1,4 @@
- {
+[ {
   id: 3
   firstName: "Jon",
   lastName: 'Doe',
@@ -33,4 +33,4 @@
   branch: 'Cluj-Napoca',
   attendance: false,
   partyLocations: ''
-}
+}]
