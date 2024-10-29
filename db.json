@@ -1,0 +1,36 @@
+ {
+  id: 3
+  firstName: "Jon",
+  lastName: 'Doe',
+  email: 'jon.doe@emeal.nttdata.com',
+  branch: 'Brasov',
+  attendance: true,
+  partyLocations: 'Brasov'
+},
+{
+  id: 4
+  firstName: "Ervin",
+  lastName: 'howell',
+  email: 'ervin.howell@emeal.nttdata.com',
+  branch: 'Brasov',
+  attendance: true,
+  partyLocations: ['Brasov', 'Iasi','Novi Sad']
+},
+{
+  id: 5
+  firstName: "Glenna",
+  lastName: 'Reichert',
+  email: 'glena.reichert@emeal.nttdata.com',
+  branch: 'Novi Sad',
+  attendance: false,
+  partyLocations: ''
+},
+{
+  id: 6
+  firstName: "Chelsey",
+  lastName: 'Dietrich',
+  email: 'chelsey.dietrich@emeal.nttdata.com',
+  branch: 'Cluj-Napoca',
+  attendance: false,
+  partyLocations: ''
+}
